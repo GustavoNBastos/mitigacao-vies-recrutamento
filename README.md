@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Fair AI](https://img.shields.io/badge/AI-Fairness-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # 🤖 Mitigação de Viés em IA de Recrutamento
 
 Projeto acadêmico desenvolvido no curso **Descobrindo a IA — 2025**.
